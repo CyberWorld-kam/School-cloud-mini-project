@@ -9,8 +9,9 @@
 ![image](https://github.com/CyberWorld-kam/School-cloud-mini-project/assets/157485250/81f28326-239c-434f-8fcb-dccfbf313cdb)
  
 
-Performing the lab.
-1.	Create an Azure account (it can be free or pay as you go)
+<h1>Performing the lab.</h1>
+<h2>1.	Create an Azure account (it can be free or pay as you go)</h2>
+
  ![image](https://github.com/CyberWorld-kam/School-cloud-mini-project/assets/157485250/fa36d5ab-48d0-48be-b3a3-c154a3b8e905)
 
 So, you sign up using your Microsoft account or if you do not have, create one and proced
