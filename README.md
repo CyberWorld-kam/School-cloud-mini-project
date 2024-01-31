@@ -2,6 +2,8 @@
 
 # Sentinel SIEM
 
+ ### [I am also doing Security Awareness](https://www.facebook.com/profile.php?id=100086563703368&mibextid=ZbWKwL)
+
 <h2>Architecture:</h2>
 
 ![image](https://github.com/CyberWorld-kam/School-cloud-mini-project/assets/157485250/81f28326-239c-434f-8fcb-dccfbf313cdb)
@@ -146,9 +148,9 @@ The map
  ![image](https://github.com/CyberWorld-kam/School-cloud-mini-project/assets/157485250/d14c0567-7573-4a66-a9fb-71208444c085)
 
 
-As we can see the mapping, the are people trying to login or attacking the machine from different country and different continents like:
-•	India ==> 12 attempts
-•	Egypt ==> 744 attempts
+As we can see the mapping, the are people trying to login or attacking the machine from different country and different continents like:<br/>
+•	India ==> 12 attempts<br/>
+•	Egypt ==> 744 attempts<br/>
 •	Indonesia ==> 3.1k attempts…
 
 
